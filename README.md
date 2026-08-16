@@ -1,5 +1,5 @@
 # builder-tracker
-Dar 1
+Day 1
 
 Goal: Build my first python program
 
